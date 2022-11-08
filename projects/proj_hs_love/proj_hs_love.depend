@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1666900626 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\eos\eos_mitb.f90
+
+1604121484 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\global\global.f90
+
+1667349287 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\global\ioutil.f90
+
+1627519023 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\global\ogpf.f90
+
+1662346707 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\global\timer.f90
+
+1629517062 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\math\linsys.f90
+
+820464368 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\nr\nrtype.f90
+
+1666794382 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\eos\eos.f90
+
+1661008263 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\global\gnuplot.f90
+
+1664464092 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\ld\love_solid\hansen79_eq.f90
+
+1664125864 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\ld\love_solid\penner11_eq.f90
+
+1663875076 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\math\ode_solver.f90
+
+1629563859 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\math\ode_solver_tov.f90
+
+1605237817 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\nr\nrutil.f90
+
+1666887542 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\eos\eos_hs_gen.f90
+
+1629777064 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\nr\nr.f90
+
+1604588893 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\nr\polint.f90
+
+1604589135 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\nr\rtsec.f90
+
+1663877938 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\stat_prof\bg.f90
+
+1664081168 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\stat_prof\tov_pt.f90
+
+1663879059 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\ld\love_gr.f90
+
+1667852785 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\ld\love_solid\love_gr_s1f2.f90
+
+1667859666 source:c:\users\student\desktop\gravity papers folder\gravity code\gr_hs_ccs_love\projects\proj_hs_love\main.f90
+
